@@ -1,0 +1,7 @@
+---
+- name: Configurando Apache en nuestro servidor local
+  hosts: web
+  remote_user: root
+  roles:
+    - apache
+
