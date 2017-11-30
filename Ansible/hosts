@@ -1,3 +1,6 @@
-[web]
-127.0.0.1 ansible_port=2221 ansible_ssh_private_key_file=../Dockerfile/key.private
 
+[webNd]
+munin_node_web ansible_port=2221 ansible_ssh_private_key_file=../Dockerfile/key.private
+
+[webMs]
+munin_master_web ansible_port=2222 ansible_ssh_private_key_file=../Dockerfile/key.private
