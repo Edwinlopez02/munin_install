@@ -12,7 +12,7 @@ Instalaremos estos dos servicios,
 
 PRIMER PASO. instalación del servidor web en mi caso Apache
 ------------------------
-###Instalamos el servidor web en el munin_web:
+### Instalamos el servidor web en el munin_web:
 
 Dentro de la carpeta Ansible ponemos este comando en nuestra consola: 
 
