@@ -20,7 +20,9 @@ Dentro de la carpeta Ansible ponemos este comando en nuestra consola:
 ``ansible-playbook -i hosts install_apache.yml``
 
 
-Luego que la instalacion este hecha, revisamos en el puerto 0.0.0.0:80 y nos mostrará el index de Apache.
+Luego que la instalacion este hecha, revisamos en el puerto 0.0.0.0:80 y nos mostrará el index de Apache, luego cambie el index por este:
+
+![GitHub Logo](https://github.com/jdcr1425/munin_new/blob/munin_install/imagen/imagen.png
 
 SEGUNDO PASO. Instalacion de Munin
 ------------------------
