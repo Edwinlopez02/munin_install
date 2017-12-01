@@ -10,10 +10,10 @@ Instalaremos estos dos servicios,
   </ul>
 </ul>
 
-<h3>PRIMER PASO. instalación del servidor web en mi caso Apache</h3>
+PRIMER PASO. instalación del servidor web en mi caso Apache
 ------------------------
 
-<b>Instalamos el servidor web en el munin_web:<b>
+Instalamos el servidor web en el munin_web:
 
 Dentro de la carpeta Ansible ponemos este comando en nuestra consola: 
 
@@ -23,9 +23,9 @@ Dentro de la carpeta Ansible ponemos este comando en nuestra consola:
 
 Luego que la instalacion este hecha, revisamos en el puerto 0.0.0.0:80 y nos mostrará el index de Apache.
 
-<h3>SEGUNDO PASO. Instalacion de Munin</h3>
+SEGUNDO PASO. Instalacion de Munin
 ------------------------
-<b>Intalamos Munin en el munin_node_web:<b>
+### Intalamos Munin en el munin_node_web:
 
 Dentro de la carpeta Ansible ponemos este comando en nuestra consola para que ansible instale los playbooks teniendo en cuenta los hosts asignados de munin node:
 
