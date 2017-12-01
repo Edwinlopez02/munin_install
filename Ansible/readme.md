@@ -21,8 +21,7 @@ Dentro de la carpeta Ansible ponemos este comando en nuestra consola:
 
 
 Luego que la instalacion este hecha, revisamos en el puerto 0.0.0.0:80 y nos mostrará el index de Apache, luego cambie el index por este:
-
-![GitHub Logo](https://github.com/edwinlopez02/munin_install/blob/imagen/imagen.png
+https://github.com/Edwinlopez02/munin_install/blob/master/imagen/imagen.png
 
 SEGUNDO PASO. Instalacion de Munin
 ------------------------
