@@ -2,7 +2,9 @@
 Para instalar munin, debemos seguir los siguientes pasos:
  
 <h2>Primero paso</h2>
-Accedemos a la carpeta Dockerfile por medio de la terminal y crear la imagen, siguiendo las instrucciones.
+### Crear imagen con Dockerfile
+Ingresamos a la carpeta Dockerfile en nuestra terminal de la siguiente manera: ```$ cd Dockerfile/```, Luego realizamos el paso a paso que se encuentra en el README de dicha carpeta, Al finalizar con Dockerfile, continueamos con Ansible
 
 <h2>Segundo paso</h2>
-Debemos realizar la ejecución de los playbooks por medio de la terminal, ingresando a la carpeta ansible,y seguimos su paso a paso.
+### Hacemos las automatizaciones de tareas con Ansible
+Ingresamos a la carpeta Ansible de igual manera como lo hicimos con Dockerfile y ahi, Debemos realizar la ejecución de los playbooks por medio de la terminal, Para seguir su paso a paso, debemos ingresar a el README que se encuentra en esta carpeta.
