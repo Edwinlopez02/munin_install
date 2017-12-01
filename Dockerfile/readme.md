@@ -26,7 +26,7 @@ Usamos los siguientes comandos en nuestra consola:
 ## Cuarto paso, confirmación
 Realiza una prueba de conexión a la maquina que se creó recientemente.
 
- ``ssh root@172.168.0.1 -p 2221 -i ../key.private``
+ ``ssh root@127.0.0.1 -p 2221 -i ../key.private``
  
 Si la conexión se establece, ya está listo el banco de pruebas y puedes ingresar a ansible.
 
